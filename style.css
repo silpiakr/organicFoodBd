@@ -16,3 +16,13 @@
 }.drpdown-organic:hover{
     background-color: #3bb77e;
 }
+.BannerItem{
+    border-radius: 10px;
+}
+.icon-organic{
+    color: gray;
+    font-size: 1rem;
+}
+.icon-organic:hover{
+    color: #3bb77e;
+}
