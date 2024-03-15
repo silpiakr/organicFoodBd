@@ -104,3 +104,9 @@
 .text-organic{
     color: #3bb77e;
 }
+.ftr-hdr{
+    background-color: #3bb77e;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
