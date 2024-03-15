@@ -1,3 +1,6 @@
+.bg-bdColor{
+    background-color: #FFF;
+}
 .bg-organic{
     background-color: #3bb77e;
 }
@@ -25,4 +28,31 @@
 }
 .icon-organic:hover{
     color: #3bb77e;
+}
+.swipe-slider{
+    box-sizing: border-box;
+    margin: 10px 10px 10px 10px;
+    font-size: .5rem;
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 3px 3px 30px #f1efef;
+}
+.categories-slider-divflex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.categories-slider-div_imgdiv:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.swipe-wraping{
+    
+    text-wrap: nowrap;
+}
+.swipe-slide-active{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    overflow-inline: ;
 }
